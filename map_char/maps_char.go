@@ -46,7 +46,7 @@ func (c *Content_Set) Take_rand(value int) string {
 	var ret string
 	index := generateUniqueRandomNumbers(value, len(c.Characters))
 	for i := 0; i < value; i++ {
-		ret += c.Characters[index[i]].Name + " "
+		ret += c.Characters[index[i]].Name + "\n"
 	}
 	return ret
 }

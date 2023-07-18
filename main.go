@@ -31,11 +31,19 @@ func main() {
 		msg.ReplyToMessageID = update.Message.MessageID
 		switch update.Message.Command() {
 		case "help":
-			msg.Text = "I understand /auth and /draft."
+			msg.Text = "I understand /auth and /draft.\n"
+			msg.Text += "usage of auth - '/auth <challonge login> <challonge password> <tournament>'\n"
+			msg.Text += "usage of draft - after you used /auth you can just type '/draft'"
 		case "auth":
 			params := strings.Split(update.Message.Text, " ")
+			if len(params) != 4 {
+				msg.Text = "Please enter correct params"
+				break
+			}
 			Auth[update.Message.From.ID] = get_pair.User{params[1], params[2], params[3]}
 			log.Printf("User with %d id %s Username %s pwd %s Tourmanent id found\n", update.Message.From.ID, Auth[update.Message.From.ID].Username, Auth[update.Message.From.ID].Pwd, Auth[update.Message.From.ID].TournamentID)
+			msg.Text = "User with this params authorized:\n" + Auth[update.Message.From.ID].Username + "\n" + Auth[update.Message.From.ID].Pwd + "\n" + Auth[update.Message.From.ID].TournamentID
+
 		case "draft":
 			if val, ok := Auth[update.Message.From.ID]; ok {
 				log.Printf("User with %s name requested draft\n", val.Username)

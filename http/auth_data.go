@@ -46,7 +46,7 @@ func (User *User) Draft(Char *map_char.Content_Set, Map *map_char.Content_Set) s
 			if data[index].Match.Player1ID != 0 {
 				ret += fmt.Sprintf("For pair %s - %s\n", User.get_name(data[index].Match.Player1ID), User.get_name(data[index].Match.Player2ID))
 				ret += fmt.Sprintf("Characters: %s\n", Char.Take_rand(7))
-				ret += fmt.Sprintf("Maps: %s\n\n", Map.Take_rand(5))
+				ret += fmt.Sprintf("Maps:\n%s\n", Map.Take_rand(5))
 			}
 		}
 	}
