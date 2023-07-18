@@ -1,0 +1,68 @@
+{
+    "content":[
+       {
+          "name":"Marmoreal",
+          "set":"Battle of Legends, Volume One"
+       },
+       {
+          "name":"Sarpedon",
+          "set":"Battle of Legends, Volume One"
+       },
+       {
+          "name":"Sherwood Forest",
+          "set":"Robin Hood vs. Bigfoot"
+       },
+       {
+          "name":"Yukon",
+          "set":"Robin Hood vs. Bigfoot"
+       },
+       {
+          "name":"Raptor Paddock",
+          "set":"Jurassic Park - Ingen vs. Raptors"
+       },
+       {
+          "name":"SoHo",
+          "set":"Cobble & Fog"
+       },
+       {
+          "name":"Baskerville Manor",
+          "set":"Cobble & Fog"
+       },
+       {
+          "name":"Sunnydale High",
+          "set":"Buffy the Vampire Slayer"
+       },
+       {
+          "name":"The Bronze",
+          "set":"Buffy the Vampire Slayer"
+       },
+       {
+          "name":"Heorot",
+          "set":"Little Red Riding Hood vs. Beowulf"
+       },
+       {
+          "name":"Hanging Gardens",
+          "set":"Battle of Legends, Volume Two"
+       },
+       {
+          "name":"The Raft",
+          "set":"Redemption Row"
+       },
+       {
+          "name":"Hell's Kitchen",
+          "set":"Hell's Kitchen"
+       },
+       {
+          "name":"T. Rex Paddock",
+          "set":"Jurassic Park - Sattler vs. T-Rex"
+       },
+       {
+          "name":"King Solomon's Mine",
+          "set":"Houdini vs. The Genie"
+       },
+       {
+          "name":"Navy Pier",
+          "set":"Teen Spirit "
+       }
+    ]
+ }

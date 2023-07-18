@@ -1,0 +1,134 @@
+{
+    "content":[
+       {
+          "name":"Medusa",
+          "set":"Battle of Legends, Volume One"
+       },{
+        "name":"Sinbad",
+        "set":"Battle of Legends, Volume One"
+     },{
+        "name":"Alice",
+        "set":"Battle of Legends, Volume One"
+     },{
+        "name":"Bruce Lee",
+        "set":"Bruce Lee"
+     },{
+        "name":"Deadpool",
+        "set":"Deadpool"
+     },
+       {
+          "name":"King Arthur",
+          "set":"Battle of Legends, Volume One"
+       },
+       {
+          "name":"Robin Hood",
+          "set":"Robin Hood vs. Bigfoot"
+       },
+       {
+          "name":"Bigfoot",
+          "set":"Robin Hood vs. Bigfoot"
+       },
+       {
+          "name":"Ingen",
+          "set":"Jurassic Park - Ingen vs. Raptors"
+       },
+       {
+        "name":"Raptors",
+        "set":"Jurassic Park - Ingen vs. Raptors"
+     },
+       {
+          "name":"Sherlock Holmes",
+          "set":"Cobble & Fog"
+       },
+       {
+        "name":"Jekyll & Hyde",
+        "set":"Cobble & Fog"
+     },{
+        "name":"Dracula",
+        "set":"Cobble & Fog"
+     },
+       {
+          "name":"Invisible Man",
+          "set":"Cobble & Fog"
+       },
+       {
+          "name":"Angel",
+          "set":"Buffy the Vampire Slayer"
+       },
+       {
+        "name":"Spike",
+        "set":"Buffy the Vampire Slayer"
+     },{
+        "name":"Buffy",
+        "set":"Buffy the Vampire Slayer"
+     },
+       {
+          "name":"Willow",
+          "set":"Buffy the Vampire Slayer"
+       },
+       {
+          "name":"Beowulf",
+          "set":"Little Red Riding Hood vs. Beowulf"
+       },{
+        "name":"Little Red Riding Hood",
+        "set":"Little Red Riding Hood vs. Beowulf"
+     },
+       {
+          "name":"Achilles",
+          "set":"Battle of Legends, Volume Two"
+       },{
+        "name":"Bloody Mary",
+        "set":"Battle of Legends, Volume Two"
+     },{
+        "name":"Sun Wukong",
+        "set":"Battle of Legends, Volume Two"
+     },{
+        "name":"Yennenga",
+        "set":"Battle of Legends, Volume Two"
+     },
+       {
+          "name":"Luke Cage",
+          "set":"Redemption Row"
+       },{
+        "name":"Ghost Rider",
+        "set":"Redemption Row"
+     },{
+        "name":"Moon Knight",
+        "set":"Redemption Row"
+     },
+       {
+          "name":"Daredevil",
+          "set":"Hell's Kitchen"
+       },{
+        "name":"Bullseye",
+        "set":"Hell's Kitchen"
+     },{
+        "name":"Elektra",
+        "set":"Hell's Kitchen"
+     },
+       {
+          "name":"T-Rex",
+          "set":"Jurassic Park - Sattler vs. T-Rex"
+       },{
+        "name":"Sattler",
+        "set":"Jurassic Park - Sattler vs. T-Rex"
+     },
+       {
+          "name":"The Genie",
+          "set":"Houdini vs. The Genie"
+       },{
+        "name":"Houdini",
+        "set":"Houdini vs. The Genie"
+     },
+       {
+          "name":"Ms. Marvel",
+          "set":"Teen Spirit "
+       },{
+        "name":"Squirrel Girl",
+        "set":"Teen Spirit "
+     },{
+        "name":"Cloak and Dagger",
+        "set":"Teen Spirit "
+     }
+    ]
+ }
